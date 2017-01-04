@@ -1,0 +1,16 @@
+{
+  "name": "jobs-bot",
+  "version": "1.0.0",
+  "description": "a bot for job postings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Fitzsimons",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
